@@ -80,3 +80,11 @@ font-size: 1.8rem;
     border-radius: 7px;
 }
 
+.main-content {
+    width: 70%;
+    padding: 20px;
+    background-color: #fdefef;
+    box-shadow: 0 0 10px rgba(232, 197, 197, 0.1);
+    border-radius: 8px;
+    margin-left: 20px;
+}
