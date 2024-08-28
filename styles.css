@@ -63,3 +63,20 @@ font-size: 1.8rem;
     margin: 10px 0;
 }
 
+.skills-section h3 {
+    margin-top: 40px
+    font-size: 1.8rem;
+}
+
+.skills-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skills-section ul li {
+    margin: 10px 0;
+    background-color: #f3dede;
+    padding: 10px;
+    border-radius: 7px;
+}
+
