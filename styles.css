@@ -126,3 +126,18 @@ main h3 {
     font-size: 1.3rem;
     color: #000000 
 }
+
+@media (max-width: 800px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .sidebar, .main-content {
+        width: 100%;
+        margin: 0;
+    }
+
+    .main-content {
+        margin-top: 20px;
+    }
+}s
