@@ -116,3 +116,13 @@ main h3 {
     color: #666;
 }
 
+.interests p {
+    font-size: 1.3rem;
+    color: #666;
+    margin-top: 20px;
+}
+
+.proff-skills p {
+    font-size: 1.3rem;
+    color: #000000 
+}
