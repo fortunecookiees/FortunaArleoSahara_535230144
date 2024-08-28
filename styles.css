@@ -21,3 +21,13 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
 }
+
+.profile-section img {
+    border-radius: 100%;
+    width: 250px;
+    height: 300px;
+    margin-bottom: 35px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
