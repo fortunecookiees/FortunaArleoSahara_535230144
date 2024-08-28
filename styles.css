@@ -88,3 +88,10 @@ font-size: 1.8rem;
     border-radius: 8px;
     margin-left: 20px;
 }
+
+.main-content h3 {
+    font-size: 30px;
+    color: #b23b4f;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #878788;
+}
