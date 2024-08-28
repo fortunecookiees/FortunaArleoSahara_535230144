@@ -58,3 +58,8 @@ font-size: 1.8rem;
     margin: 20px ;
     text-align: justify;
 }
+
+.contact-info p {
+    margin: 10px 0;
+}
+
