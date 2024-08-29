@@ -32,6 +32,11 @@ body {
     margin-right: auto; 
 }
 
+.email-link {
+    color: blue;
+    text-decoration: underline;
+}
+
 .profile-section p { 
 font-size: 1.4rem;
 margin:10px 0;
